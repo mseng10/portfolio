@@ -1,5 +1,7 @@
 # My Portfolio Website
 
+[![AWS S3 Deploy](https://github.com/mseng10/portfolio/actions/workflows/deploy.yml/badge.svg)](https://github.com/mseng10/portfolio/actions/workflows/deploy.yml)
+
 This repository is home to my personal static portfolio website!
 
 I've always wanted to build my own little corner on the web to showcase my projects and skills, and I figured it would be a really fun and rewarding experience to finally make it happen.
